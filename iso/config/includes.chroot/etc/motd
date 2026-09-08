@@ -1,0 +1,6 @@
+
+ AI OS Linux
+ Debian Bookworm | AI toolkit: /opt/ai-os-linux
+
+ Modellliste:
+   python3 /opt/ai-os-linux/ai_os.py list

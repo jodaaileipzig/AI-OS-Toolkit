@@ -1,0 +1,6 @@
+[
+  {"id": "qwen2.5-0.5b", "repo": "Qwen/Qwen2.5-0.5B-Instruct", "parameters": "0.5B", "vram": "4 GB", "description": "Kompaktes mehrsprachiges Instruct-Modell"},
+  {"id": "smollm2-1.7b", "repo": "HuggingFaceTB/SmolLM2-1.7B-Instruct", "parameters": "1.7B", "vram": "8 GB", "description": "Kleines Modell für lokale Assistenten"},
+  {"id": "llama-3.2-3b", "repo": "meta-llama/Llama-3.2-3B-Instruct", "parameters": "3B", "vram": "12 GB", "description": "Leistungsfähiges Instruct-Modell, Zugriff kann Zustimmung erfordern"},
+  {"id": "mistral-7b", "repo": "mistralai/Mistral-7B-Instruct-v0.3", "parameters": "7B", "vram": "16 GB", "description": "Starkes allgemeines Modell für leistungsfähige GPUs"}
+]
